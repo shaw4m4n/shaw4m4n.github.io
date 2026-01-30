@@ -5,7 +5,9 @@ icon: fas fa-info-circle
 permalink: /about/
 ---
 
-I am a Cybersecurity Professional, currently specializing in defensive roles, such as SOC, and Penetration Testing. I am continuously practicing my analysis skills through hands-on labs, SOC simulations, and self-paced online training.
+Cybersecurity Professional, specializing in defensive roles, such as SOC, and Penetration Testing. I am continuously practicing my skills through hands-on labs, SOC simulations, CTF challenges and self-paced online training.
+
+This simple blog site is a means to share what I learn. I am Currently focussed on improving my Web Application Pentesting skills, following Web Security Academy by PortSwigger.
 
 I am actively looking for opportunities to leverage my analytical mindset and technical proficiency to protect organizational assets and contribute to the broader security community.
 
